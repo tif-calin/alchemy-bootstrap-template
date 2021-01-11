@@ -15,7 +15,7 @@ HTML Setup:
 - A secret, empty div
     - Why? to inject/display the results to the user
 
-1) Get DOM Elements
+1) Grab DOM Elements
     - button
     - secret div
 2) Add event listeners
