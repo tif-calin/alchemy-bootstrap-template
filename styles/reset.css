@@ -4,7 +4,7 @@
    License: none (public domain)
 */
 
-*{
+* {
     box-sizing: border-box;
 }
 
@@ -31,9 +31,4 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
-}
-
-ol, ul {
-	list-style: none;
 }
