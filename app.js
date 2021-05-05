@@ -2,4 +2,7 @@
 
 // initialize state
 
-// set event listeners to update state and DOM
+// set event listeners 
+  // get user input?
+  // update state 
+  // update DOM
